@@ -12,5 +12,9 @@ imc = peso / (altura**2)
 
  if imc < 18.5:
    print("Abaixo do peso.")
+elif imc < 25:
+   print ("Peso normal.")
+else:
+   print (a"cima do peso.")
    
       
