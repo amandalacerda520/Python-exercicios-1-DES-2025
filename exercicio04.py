@@ -15,6 +15,7 @@ imc = peso / (altura**2)
 elif imc < 25:
    print ("Peso normal.")
 else:
-   print (a"cima do peso.")
+   print ("acima do peso.")
+
    
       
